@@ -1,16 +1,62 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# SkillTrack
 
-Currently, two official plugins are available:
+SkillTrack is a student skill and job portal designed to help students manage their skills, projects, certifications, resume information, and job opportunities in one platform.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* User registration and login
+* Student profile management
+* Skills management
+* Project management
+* Certification management
+* Resume management
+* Job listings
+* Dashboard
+* Admin functionality
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+### Frontend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* JavaScript
+* HTML
+* CSS
+
+### Backend
+
+* Python
+* Django
+* Django REST Framework
+
+### Database
+
+* PostgreSQL
+
+## Project Structure
+
+```text
+SkillTrack/
+├── frontend/
+└── backend/
+```
+
+## Main Modules
+
+* Authentication
+* Student Profile
+* Skills
+* Projects
+* Certificates
+* Resume
+* Jobs
+* Admin Dashboard
+
+## Purpose
+
+The project was developed as a full-stack web application to provide students with a centralized platform for managing their professional skills and career information.
+
+## Author
+
+Alan K Alexander
